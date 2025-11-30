@@ -72,17 +72,20 @@ Race Strategy
 Screenshots
 Main Menu
 
-https://screenshots/menu.png
-Car Selection
+![Game Screenshot](screenshots/menu.png)
 
-https://screenshots/car_select.png
-Gameplay
+Settings
 
-https://screenshots/gameplay.png
+![Game Screenshot](screenshots/settings.png)
+
+Car selection
+
+![Game Screenshot](screenshots/car_select.png)
+
 Leaderboard
 
-https://screenshots/leaderboard.png
-Technical Details
+![Game Screenshot](screenshots/leaderboard.png)
+
 Architecture
 
     Object-oriented design with Pygame
@@ -161,19 +164,23 @@ Strategia Wyścigu
     Wyprzedzaj przeciwników do budowania combo
 
 Zrzuty Ekranu
+
 Menu Główne
 
-https://screenshots/menu.png
+![Game Screenshot](screenshots/menu.png)
+
+Ustawienia
+
+![Game Screenshot](screenshots/settings.png)
+
 Wybór Samochodu
 
-https://screenshots/car_select.png
-Rozgrywka
+![Game Screenshot](screenshots/car_select.png)
 
-https://screenshots/gameplay.png
 Tabela Wyników
 
-https://screenshots/leaderboard.png
-Szczegóły Techniczne
+![Game Screenshot](screenshots/leaderboard.png)
+
 Architektura
 
     Projekt obiektowy z Pygame
